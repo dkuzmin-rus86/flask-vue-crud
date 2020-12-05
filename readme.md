@@ -1,4 +1,4 @@
-# Simple Flask CRUD-application with VueJS client
+# Simple CRUD application with Flask and Vue
 Simple CRUD application with Flask and Vue.
 
 ## Usage
